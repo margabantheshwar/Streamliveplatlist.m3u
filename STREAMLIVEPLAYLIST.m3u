@@ -223,7 +223,9 @@
     url: 'https://mhdtvhub.com/ww/tam/play.php?id=f4730ef993d75fcdaaeb69ff8b6fb1e0',
     category: 'Tamil',
   }
-    title: 'Vijay Super',
+    id: 'vijay-super',
+    name: 'Vijay Super',
+    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png',
+    url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=3266',
     category: 'Tamil',
-    thumbnail: 'https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png',
-    streamUrl: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=3266',
+  }
