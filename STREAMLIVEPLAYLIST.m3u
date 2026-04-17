@@ -209,13 +209,7 @@
     url: 'https://login.bheem.tv/bpk-tv/22374/output/index.mpd?|drmScheme=clearkey&drmLicense=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0',
     category: 'Tamil',
   },
-  {
-    id: 'animal-planet-tamil',
-    name: 'Animal Planet Tamil',
-    logo: '',
-    url: 'https://login.bheem.tv/bpk-tv/22052/output/index.mpd?|drmScheme=clearkey&drmLicense=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325',
-    category: 'Tamil',
-  },
+ 
   {
     id: 'thanthi-one',
     name: 'Thanthi One',
