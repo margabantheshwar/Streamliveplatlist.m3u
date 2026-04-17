@@ -212,7 +212,7 @@
   {
     id: 'animal-planet-tamil',
     name: 'Animal Planet Tamil',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Tam_HD.png',
+    logo: '',
     url: 'https://login.bheem.tv/bpk-tv/22052/output/index.mpd?|drmScheme=clearkey&drmLicense=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325',
     category: 'Tamil',
   },
