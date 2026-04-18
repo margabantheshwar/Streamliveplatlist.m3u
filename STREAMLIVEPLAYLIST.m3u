@@ -105,59 +105,10 @@
     category: 'Tamil',
   },
   {
-    id: 'polimer-tv',
-    name: 'Polimer TV',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=73cbefe191c0b78e8c28691a5f224f9f',
-    category: 'Tamil',
-  },
-  {
-    id: 'polimer-news',
-    name: 'Polimer News',
-    logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=55b45f88bfd59a5f1c413647a2d644ed',
-    category: 'Tamil',
-  },
-  {
-    id: 'news-j',
-    name: 'News J',
-    logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=2f25f3ac9edb2cac3ec976af99836c88',
-    category: 'Tamil',
-  },
-  {
-    id: 'mk-tv',
-    name: 'MK TV',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=33bdcbe8485ea6c3ee8cf10926fa1978',
-    category: 'Tamil',
-  },
-  {
-    id: 'kalaignar-tv',
-    name: 'Kalaignar TV',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=fc1d0d0d33491bba255f3e0b1b85d79c',
-    category: 'Tamil',
-  },
-  {
-    id: 'jaya-plus',
-    name: 'Jaya Plus',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=619add0307455bfbfc1f1d43905bc6a9',
-    category: 'Tamil',
-  },
-  {
-    id: 'chithiram',
-    name: 'Chithiram',
-    logo: 'https://vboxtv.com/wp-content/uploads/2024/11/chithiram-300x300.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=dcfd02ed3eb39614edc8941228737ba6',
-    category: 'Tamil',
-  },
-  {
     id: 'kalaignar-seithigal',
     name: 'Kalaignar Seithigal',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=b337ae2e94e28c09779470cd97276e07',
+    url: 'https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1776496044~exp=1776517644~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_119_-1~hmac=07327ead35d42d9723b2b75c5eb2a5a9f597b4dc408356111f6d9617c4b30747&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0',
     category: 'Tamil',
   },
   {
@@ -208,25 +159,5 @@
     logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png',
     url: 'https://login.bheem.tv/bpk-tv/22374/output/index.mpd?|drmScheme=clearkey&drmLicense=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0',
     category: 'Tamil',
-  },
- {
-    id: 'animal-planet-tamil',
-    name: 'Animal Planet Tamil',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Tam_HD.png',
-    url: 'https://login.bheem.tv/bpk-tv/22052/output/index.mpd?|drmScheme=clearkey&drmLicense=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325',
-    category: 'Tamil',
-  },
- 
-  {
-    id: 'thanthi-one',
-    name: 'Thanthi One',
-    logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png',
-    url: 'https://mhdtvhub.com/ww/tam/play.php?id=f4730ef993d75fcdaaeb69ff8b6fb1e0',
-    category: 'Tamil',
   }
-    id: 'vijay-super',
-    name: 'Vijay Super',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png',
-    url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=3266',
-    category: 'Tamil',
-  }
+
