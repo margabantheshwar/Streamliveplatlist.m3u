@@ -31,7 +31,7 @@
     id: 'star-sports-2-tamil',
     name: 'Star Sports 2 Tamil',
     logo: 'https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg',
-    url: 'https://api.naariclothing.com/in/?watch=012',
+    url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss2tam',
     category: 'Tamil',
   },
   {
