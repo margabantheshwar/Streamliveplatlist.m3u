@@ -80,7 +80,7 @@
     id: 'puthiya-thalaimurai',
     name: 'Puthiya Thalaimurai',
     logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png',
-    url: 'https://yuppnimresmum.akamaized.net/240122/puthiya/240122/puthiya_1800/hdntl=exp=1776410616~acl=%2f*~data=hdntl~hmac=53e0fd5cf1235e9f2095b6ea366f587b7d434819fbca4cf448d0d81e65da75c3/chunks.m3u8',
+    url: 'https://yuppnimresmum.akamaized.net/240122/puthiya/playlist.m3u8?ads.channel=1247&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1776497843~exp=1776519443~acl=!*/240122/puthiya/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_175_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_175_-1~hmac=6cc191d35bcb6eaca402df9e2f843f64622cdfba1a00266d4bd2251456a221db&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PuthiyaThalaimurai&ads.language=TAM&ads.user=0',
     category: 'Tamil',
   },
   {
@@ -89,5 +89,27 @@
     logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png',
     url: 'https://login.bheem.tv/bpk-tv/22374/output/index.mpd?|drmScheme=clearkey&drmLicense=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0',
     category: 'Tamil',
-  }
+  },
+{
+    id: 'polimer-news',
+    name: 'Polimer News',
+    logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png',
+    url: 'https://yuppnimresmum.akamaized.net/110322/polimernews/playlist.m3u8?ads.channel=3345&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1776497912~exp=1776519512~acl=!*/110322/polimernews/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_184_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_184_-1~hmac=f757362c20e84c477c285d04ea65583252019b44d6a7ef94a2f49d77090e5760&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PolimerNews&ads.language=TAM&ads.user=0',
+    category: 'Tamil',
+  },
+{
+    id: 'sana-tv',
+    name: 'Sana TV',
+    logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sana-tv.png',
+    url: 'https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?ads.channel=7130&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1776498039~exp=1776519639~acl=!*/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_329_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_329_-1~hmac=93511929bcf082776bec456c28e1d3bec1a41a316b75af3de99cafbc500e0d7a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=SanaTV&ads.language=TAM&ads.user=0',
+    category: 'Tamil',
+  },
+{
+    id: 'peppers-tv',
+    name: 'Peppers TV',
+    logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png',
+    url: 'https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?ads.channel=6644&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1776498360~exp=1776519960~acl=!*/fta/peppers/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_113_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_113_-1~hmac=13ef355eff776999da0ec1ab813a5fa3a0993565e0370e09b4f8af1ea1a2bebd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=PeppersTV&ads.language=TAM&ads.user=0',
+    category: 'Tamil',
+  }.
+
 
