@@ -90,53 +90,53 @@
     url: 'https://login.bheem.tv/bpk-tv/22374/output/index.mpd?|drmScheme=clearkey&drmLicense=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0',
     category: 'Tamil',
   },
-{
+ {
     id: 'polimer-news',
     name: 'Polimer News',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png',
     url: 'https://yuppnimresmum.akamaized.net/110322/polimernews/110322/polimernews_1800/hdntl=exp=1776585081~acl=%2f*~data=hdntl~hmac=fbdd12390fe864bcb58abbb8cda8d12bdaa7a81f08888375bd540a397ae7daa3/chunks.m3u8',
     category: 'Tamil',
   },
-{
+ {
     id: 'sana-tv',
     name: 'Sana TV',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sana-tv.png',
     url: 'https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?ads.channel=7130&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1776498039~exp=1776519639~acl=!*/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_329_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_329_-1~hmac=93511929bcf082776bec456c28e1d3bec1a41a316b75af3de99cafbc500e0d7a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=SanaTV&ads.language=TAM&ads.user=0',
     category: 'Tamil',
   },
-{
+ {
     id: 'peppers-tv',
     name: 'Peppers TV',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png',
     url: 'https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?ads.channel=6644&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1776498360~exp=1776519960~acl=!*/fta/peppers/*!/payload/yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_113_-1/*~data=yupptvott_5_-1_9d0852bbb5c54df3_IN_157.51.110.172_yuppfast_2_channel_113_-1~hmac=13ef355eff776999da0ec1ab813a5fa3a0993565e0370e09b4f8af1ea1a2bebd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=PeppersTV&ads.language=TAM&ads.user=0',
     category: 'Tamil',
   },
-{
+ {
     id: 'murasu',
     name: 'Murasu',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png',
-    url:'https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/2fdcf9a3-97c4-4f77-a9dd-924aa354263e/0.m3u8',
+    url: 'https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/2fdcf9a3-97c4-4f77-a9dd-924aa354263e/0.m3u8',
     category: 'Tamil',
   },
-{
+ {
     id: 'thalaa-tv',
     name: 'Thalaa TV',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png',
-    url:'https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/afe78dc1-3b78-48c7-b8e0-6681cd905135/1.m3u8',
+    url:'https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/3899cec4-3d9f-4447-ab4d-a287df8cb03d/1.m3u8',
     category: 'Tamil',
   },
-{
+ {
     id: 'wow-kidz-tamil',
     name: 'WOW Kidz Tamil TV',
     logo: 'https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-tamil-white.png',
-    url:'https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b',
+    url:  'https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//hdntl=exp=1776587250~acl=%2f*~data=hdntl~hmac=21d4aab5bd53abac19aa78dd84d9f49f35f3995759540120fba4df83224c2aa0/chunklist_b2628000.m3u8',
     category: 'Tamil',
   },
-{
+ {
     id: 'sana-plus-hd',
     name: 'Sana Plus HD',
     logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/channel/7df1e075b1372a4adb1064f4d6f134d4.png',
-    url:'https://mumbai-edge.smartplaytv.in/SanaPlusHD/tracks-v1a1/mono.m3u8',
+    url:  'https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8',
     category: 'Tamil',
   }.
 
