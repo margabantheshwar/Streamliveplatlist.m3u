@@ -34,13 +34,6 @@
     url: 'https://api.naariclothing.com/in/?watch=012',
     category: 'Tamil',
   },
- {
-    id: 'sun-tv-hd',
-    name: 'Sun TV HD',
-    logo: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Sun_TV_Logo_2026.png',
-    url: 'https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd',
-    category: 'Tamil',
-  },
   {
     id: 'kalaignar-seithigal',
     name: 'Kalaignar Seithigal',
