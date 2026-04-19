@@ -49,6 +49,13 @@
     category: 'Hindi',
   },
  {
+    id: 'vijay-tv',
+    name: 'Star Vijay',
+    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png',
+    url:'https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/STAR_VIJAY/index.m3u8?token=7a77c5ca9ae122bf83b18cbc16b34198e3167a60-9f8a0eaf52f508bda462df44caabca61-1776591269-1776569669',
+    category: 'Tamil',
+  },
+ {
     id: 'colors-tamil-hd',
     name: 'Colors Tamil HD',
     logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png',
@@ -159,7 +166,21 @@
     logo: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dfg9ktb-0cfd204f-fb93-489d-91b5-9e2fb90f6224.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MDllZmE2ZS1jNjlhLTQ5NzEtYWM0ZS1hMmE3NmRjZDAyZTUvZGZnOWt0Yi0wY2ZkMjA0Zi1mYjkzLTQ4OWQtOTFiNS05ZTJmYjkwZjYyMjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vqJcHTZAMfRb6fLV9swglfbvdGlgDaibaQxD2q6NC0c',
     url:'https://public.kliv.fun/Zon2/live.m3u8?id=83670',
     category: 'English',
+  },{
+    id: 'thanthi-one',
+    name: 'Thanthi One',
+    logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png',
+    url:'https://mumt02.tangotv.in/THANTHIONE/index.m3u8',
+    category: 'Tamil',
+  },
+ {
+    id: 'village-cooking-channel',
+    name: 'Village Cooking Channel',
+    logo: 'https://yt3.googleusercontent.com/66OTTHSdZwqnz75I-z_sCFmf-EKQ9q4_OZsluCDm3KqPrcauc16Si1gGQuUgqe82Pi05Y2vnpw=s900-c-k-c0x00ffffff-no-rj ',
+    url:'https://glb.bozztv.com/glb/ushba-t10/index.m3u8 and https://fl1003.bozztv.com/ushba-t10/tracks-v1a1/mono.m3u8',
+    category: 'Tamil',
   }.
+ 
 
 
 
