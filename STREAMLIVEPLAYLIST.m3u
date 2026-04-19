@@ -55,6 +55,27 @@
     url:'https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/STAR_VIJAY/index.m3u8?token=7a77c5ca9ae122bf83b18cbc16b34198e3167a60-9f8a0eaf52f508bda462df44caabca61-1776591269-1776569669',
     category: 'Tamil',
   },
+{
+    id: 'sun-music',
+    name: 'Sun Music HD',
+    logo: 'https://github.com/sportlive18/Jio-Tv-Web---Sayan/blob/main/logos/Sun_Music_HD.png?raw=true',
+    url:' https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/SUN_MUSIC_HD/index.m3u8?token=e83b9b84cad61ce752a2ae90e0627b34779346c8-224a650fe3d756ae1208f2fb9dbb3b67-1776609401-1776587801',
+    category: 'Tamil',
+  },
+ {
+    id: 'k-tv',
+    name: 'K TV HD',
+    logo: 'https://github.com/sportlive18/Jio-Tv-Web---Sayan/blob/main/logos/KTV_HD.png?raw=true',
+    url:'https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/KTV_HD/index.m3u8?token=f8ad83c415c8fa3b4fa96c3354f2db1008a3c0a3-3b970b652858fcd71bd1a762e7e065f4-1776609490-1776587890',
+    category: 'Tamil',
+  },
+ {
+    id: 'willow-sports',
+    name: 'Willow Sports',
+    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikdk313Ay8M5RT8udR04GWvD9yW8aAfpDLw&s',
+    url:'https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8',
+    category: 'English',
+  },
  {
     id: 'colors-tamil-hd',
     name: 'Colors Tamil HD',
