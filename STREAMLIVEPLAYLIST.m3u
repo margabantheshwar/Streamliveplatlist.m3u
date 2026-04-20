@@ -1,11 +1,4 @@
-{
-    id: 'star-sports-1-hd-tamil-1',
-    name: 'Star Sports 1 HD Tamil-1',
-    logo: 'https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg',
-    url: 'https://tvgotk.wapka.fun/tamil',
-    category: 'Tamil',
-  },
-  {
+ {
     id: 'star-sports-1-hd-tamil',
     name: 'Star Sports 1 HD Tamil',
     logo: 'https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg',
