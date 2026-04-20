@@ -236,7 +236,22 @@
     logo: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dfg9ktb-0cfd204f-fb93-489d-91b5-9e2fb90f6224.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MDllZmE2ZS1jNjlhLTQ5NzEtYWM0ZS1hMmE3NmRjZDAyZTUvZGZnOWt0Yi0wY2ZkMjA0Zi1mYjkzLTQ4OWQtOTFiNS05ZTJmYjkwZjYyMjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vqJcHTZAMfRb6fLV9swglfbvdGlgDaibaQxD2q6NC0c',
     url:'https://public.kliv.fun/Zon2/live.m3u8?id=83670',
     category: 'English',
-  },{
+  },
+ {
+    "id": "star_movies_master",
+    "name": "Star Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",
+    "link": "https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8",
+    "category":"English"
+  },
+ {
+    "id": "sony_movies_master",
+    "name": "Sony Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png",
+    "link": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8",
+    "category": "Englisg",
+  },
+ {
     id: 'thanthi-one',
     name: 'Thanthi One',
     logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png',
