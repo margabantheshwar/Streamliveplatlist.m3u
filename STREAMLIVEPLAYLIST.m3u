@@ -118,13 +118,6 @@
     url: 'https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac',
     category: 'Tamil',
   },
-  {
-    id: 'jaya-tv',
-    name: 'Jaya TV',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png',
-    url: 'https://login.bheem.tv/bpk-tv/22376/output/index.mpd?|drmScheme=clearkey&drmLicense=240e85c531b3557b9f80f460de9d3632:1e152dddc7f6e7d7ff8bbea884907c24',
-    category: 'Tamil',
-  },
  { 
   "id": "polimer_tv_master", 
   "name": "Polimer Tv", 
@@ -154,13 +147,6 @@
    "category": "English", 
   },
   {
-    id: 'j-movies',
-    name: 'J Movies',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png',
-    url: 'https://login.bheem.tv/bpk-tv/22373/output/index.mpd?|drmScheme=clearkey&drmLicense=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3',
-    category: 'Tamil',
-  },
-  {
     id: 'discovery-tamil',
     name: 'Discovery Tamil',
     logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png',
@@ -172,13 +158,6 @@
     name: 'Puthiya Thalaimurai',
     logo: 'https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png',
     url: 'https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8',
-    category: 'Tamil',
-  },
-  {
-    id: 'jaya-max-tv',
-    name: 'Jaya Max TV',
-    logo: 'https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png',
-    url: 'https://login.bheem.tv/bpk-tv/22374/output/index.mpd?|drmScheme=clearkey&drmLicense=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0',
     category: 'Tamil',
   },
  {
