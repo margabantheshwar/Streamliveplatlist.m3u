@@ -1,8 +1,8 @@
  {
     id: 'star-sports-1-hd-tamil',
-    name: 'Star Sports 1 HD Tamil',
-    logo: 'https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg',
-    url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss1tam',
+    name: 'Star Sports 2 HD Tamil',
+    logo: 'https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg',
+    url: 'https://okwap.pages.dev/?id=sts1tmhd',
     category: 'Tamil',
   },
  
@@ -12,13 +12,6 @@
     logo: 'https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg',
     url: 'https://allrounder-live4.pages.dev/star/tamil-1',
     category: 'Tamil',
-  },
-  {
-    id: 'star-sports-1-hd-telugu',
-    name: 'Star Sports 1 HD Telugu',
-    logo: 'https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg',
-    url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss1tel',
-    category: 'Telugu',
   },
  {
     id: 'f1_tv_master',
