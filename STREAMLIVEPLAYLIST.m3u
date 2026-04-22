@@ -20,27 +20,6 @@
     url: 'https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss1tel',
     category: 'Telugu',
   },
-{
-    id: 'star-sports-2-tamil',
-    name: 'Star Sports 2 Tamil',
-    logo: 'https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg',
-    url: 'https://api.naariclothing.com/in/?watch=012',
-    category: 'Tamil',
-  },
- {
-    id: 'star-sports-2-hindi',
-    name: 'Star Sports 2 Hindi',
-    logo: 'https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg',
-    url: 'https://api.naariclothing.com/in/?watch=010',
-    category: 'Hindi',
-  },
- {
-    id: 'star-sports-2-hindi-hf',
-    name: 'Star Sports 2 Hindi HD',
-    logo: 'https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg',
-    url: 'https://api.naariclothing.com/in/?watch=009',
-    category: 'Hindi',
-  },
  {
     id: 'f1_tv_master',
     name: 'F1 TV',
