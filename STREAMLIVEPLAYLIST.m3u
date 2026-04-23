@@ -12,6 +12,42 @@
     url: "https://allrounder-live4.pages.dev/star/tamil-1",
     category: "Tamil",
   },
+ {
+    "id": "jayatv",
+    "name": "Jaya Tv ",
+    "group": "Tamil",
+    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22376/output/index.mpd",
+    "keyId": "240e85c531b3557b9f80f460de9d3632",
+    "key": "1e152dddc7f6e7d7ff8bbea884907c24",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png"
+  },
+ {
+    "id": "jaya-movies",
+    "name": "Jaya Movies",
+    "group": "Tamil",
+    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22373/output/index.mpd",
+    "keyId": "db45a6ff634252209fd4b66847078456",
+    "key": "134f625213a09e244ebceb257c22b2f3",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png"
+  },
+ {
+    "id": "jaya-max",
+    "name": "Jaya Max",
+    "group": "Tamil",
+    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22374/output/index.mpd",
+    "keyId": "ab7b51986d1d5c71ae7a3eccfa387547",
+    "key": "90543e8dd493f5dc0e105ce32fd964e0",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png"
+  },
+ {
+      "id": "ss2tam",
+      "name": "Star Sports 2 Tamil HD",
+      "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1776352902~exp=1776374502~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=5780757896348a1fa2a94667478319c8989048a6c4591b287429cde82d2a28a0",
+      "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
+      "key": "63e3ae853f483a86752b5b9e6d61eb20",
+      "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg"
+    },
   {
     id: "pogo",
     name: "Pogo",
