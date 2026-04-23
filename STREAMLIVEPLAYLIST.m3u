@@ -57,6 +57,15 @@
     keyId: "747bbd76538e54aba7b84da4d5dc5aba",
     key: "bd594239af2c1befc5d117cc72c83f33",
   },
+ {
+    id: "cartoon-network",
+    name: "Cartoon Network",
+    logo: "https://tamilradios.org/wp-content/uploads/2026/02/cartoon-network.jpg",
+    url: "https://login.bheem.tv/bpk-tv/22602/output/index.mpd?",
+    category: "Tamil",
+    keyId: "9b7de008a1685b9fa1aa9e0b8d5cac0a",
+    key: "9ae9aef552a4182de0eb9ab2fae86a17",
+  },
   {
     id: "vendhar-tv",
     name: "Vendhar TV",
