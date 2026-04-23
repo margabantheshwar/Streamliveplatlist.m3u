@@ -16,7 +16,7 @@
     "id": "jayatv",
     "name": "Jaya Tv ",
     "category": "Tamil",
-    "url": "https://login.bheem.tv/bpk-tv/22376/output/index.mpd",
+    "url": "https://login.bheem.tv/bpk-tv/22376/output/index.mpd?",
     "keyId": "240e85c531b3557b9f80f460de9d3632",
     "key": "1e152dddc7f6e7d7ff8bbea884907c24",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png"
@@ -25,7 +25,7 @@
     "id": "jaya-movies",
     "name": "Jaya Movies",
     "category": "Tamil",
-    "url": "https://login.bheem.tv/bpk-tv/22373/output/index.mpd",
+    "url": "https://login.bheem.tv/bpk-tv/22373/output/index.mpd?",
     "keyId": "db45a6ff634252209fd4b66847078456",
     "key": "134f625213a09e244ebceb257c22b2f3",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png"
@@ -34,7 +34,7 @@
     "id": "jaya-max",
     "name": "Jaya Max",
     "category": "Tamil",
-    "url": "https://login.bheem.tv/bpk-tv/22374/output/index.mpd",
+    "url": "https://login.bheem.tv/bpk-tv/22374/output/index.mpd?",
     "keyId": "ab7b51986d1d5c71ae7a3eccfa387547",
     "key": "90543e8dd493f5dc0e105ce32fd964e0",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png"
