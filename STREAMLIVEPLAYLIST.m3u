@@ -15,8 +15,8 @@
  {
     "id": "jayatv",
     "name": "Jaya Tv ",
-    "group": "Tamil",
-    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22376/output/index.mpd",
+    "category": "Tamil",
+    "url": "https://login.bheem.tv/bpk-tv/22376/output/index.mpd",
     "keyId": "240e85c531b3557b9f80f460de9d3632",
     "key": "1e152dddc7f6e7d7ff8bbea884907c24",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png"
@@ -24,8 +24,8 @@
  {
     "id": "jaya-movies",
     "name": "Jaya Movies",
-    "group": "Tamil",
-    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22373/output/index.mpd",
+    "category": "Tamil",
+    "url": "https://login.bheem.tv/bpk-tv/22373/output/index.mpd",
     "keyId": "db45a6ff634252209fd4b66847078456",
     "key": "134f625213a09e244ebceb257c22b2f3",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png"
@@ -33,8 +33,8 @@
  {
     "id": "jaya-max",
     "name": "Jaya Max",
-    "group": "Tamil",
-    "url": "https://tamilradios.org/playermpd.html?mpd=https://login.bheem.tv/bpk-tv/22374/output/index.mpd",
+    "category": "Tamil",
+    "url": "https://login.bheem.tv/bpk-tv/22374/output/index.mpd",
     "keyId": "ab7b51986d1d5c71ae7a3eccfa387547",
     "key": "90543e8dd493f5dc0e105ce32fd964e0",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png"
@@ -100,21 +100,21 @@
     id: "vijay-tv",
     name: "Star Vijay",
     logo: "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",
-    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/STAR_VIJAY/index.m3u8?token=...",
+    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/STAR_VIJAY/index.m3u8",
     category: "Tamil",
   },
   {
     id: "sun-music",
     name: "Sun Music HD",
     logo: "https://github.com/sportlive18/Jio-Tv-Web---Sayan/blob/main/logos/Sun_Music_HD.png?raw=true",
-    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/SUN_MUSIC_HD/index.m3u8?token=...",
+    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/SUN_MUSIC_HD/index.m3u8",
     category: "Tamil",
   },
   {
     id: "k-tv",
     name: "K TV HD",
     logo: "https://github.com/sportlive18/Jio-Tv-Web---Sayan/blob/main/logos/KTV_HD.png?raw=true",
-    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/KTV_HD/index.m3u8?token=...",
+    url: "https://cors-everywhere-wc8b4.ondigitalocean.app/https://cdn.tamilultra.top/KTV_HD/index.m3u8",
     category: "Tamil",
   },
   {
@@ -149,7 +149,7 @@
     id: "zee-tamil-hd",
     name: "Zee Tamil HD",
     logo: "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
-    url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?...",
+    url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?",
     category: "Tamil",
   },
   {
@@ -173,12 +173,14 @@
     url: "https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/.../playlist.m3u8",
     category: "English",
   },
-  {
-    id: "discovery-tamil",
-    name: "Discovery Tamil",
-    logo: "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",
-    url: "https://login.bheem.tv/bpk-tv/22652/output/index.mpd?...",
-    category: "Tamil",
+ {
+    "id": "discovery",
+    "name": "Discovery Tamil",
+    "category": "Tamil",
+    "url": "https://login.bheem.tv/bpk-tv/22652/output/index.mpd",
+    "keyId": "c6cb0bcbeac25fb286fed851e41de38c",
+    "key": "955c54f2cac8783fafccae5e5f9cdf8d",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png"
   },
   {
     id: "puthiya-thalaimurai",
