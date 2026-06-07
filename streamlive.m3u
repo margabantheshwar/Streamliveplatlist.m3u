@@ -18,3 +18,9 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="bbc_earth_master" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" group-title="International",BBC Earth
 https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8
+
+#EXTINF:-1 tvg-id="popcorn_flix_master" tvg-logo="https://image.roku.com/developer_channels/prod/b54f776fe989512130e4c758829cd80cb5ff65ca81ac1f0ce6fb0c6f24577880.png" group-title="International",Popcorn Flix
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099474.m3u8
+
+#EXTINF:-1 tvg-id="universal_action_master" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/600x337.webp?type=channelTile" group-title="International",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
