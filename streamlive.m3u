@@ -25,5 +25,5 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099
 #EXTINF:-1 tvg-id="universal_action_master" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/600x337.webp?type=channelTile" group-title="International",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 
-#EXTINF:-1 tvg-id="wowkidz_tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-tamil.jpg" group-title="Tamil,Kids",WOW Kidz Tamil
+#EXTINF:-1 tvg-id="wowkidz_tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-tamil.jpg" group-title="Tamil",WOW Kidz Tamil
 https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
