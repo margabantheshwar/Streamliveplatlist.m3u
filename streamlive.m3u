@@ -57,3 +57,31 @@ http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" tvg-language="Japanese" group-title="Kids",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" group-title="Tamil", Sun TV HD
+https://cdn.tamilultra.co.uk/SUN_TV_HD/index.m3u8?token=7d76b9c3395e023276107a510215fb150d0de501-2151d162a8a4d69bec19cf961cb37a85-1781041760-1781020160
+
+#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Tamil", Star Vijay HD
+https://cdn.tamilultra.co.uk/STAR_VIJAY/index.m3u8?token=1e3431fdcbd0c067fbc8d391c4a803e20280fb2f-878b6aa27b828cdc9ce7e57e331ee84f-1781042162-1781020562
+
+#EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamil.png" tvg-language="Tamil" group-title="Tamil", Zee Tamil
+https://cdn.tamilultra.co.uk/ZEE_TAMIL_HD/index.m3u8?token=e549b6cf3d0d78cf37221500a486b636ed66da3a-1b441e8aef28c7ad3c5afbe9519f86fb-1781042129-1781020529
+
+#EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" tvg-language="Tamil" group-title="Tamil", Zee Thirai HD
+https://cdn.tamilultra.co.uk/ZEE_THIRAI_HD/index.m3u8?token=72a0421d1e2b3714a640617b77b336e55dc5f161-2a0e6067441c146ad10cf98ac5daadfe-1781042079-1781020479
+
+#EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" tvg-language="Tamil" group-title="Tamil", Vijay Super HD
+https://cdn.tamilultra.co.uk/VIJAY_SUPER/index.m3u8?token=2ba1be9d10acfddc0273ed804751ada1108e787e-3b4b4e534f74deabc73ae8997a804b4e-1781042207-1781020607
+
+#EXTINF:-1 tvg-id="3277" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" tvg-language="Tamil" group-title="Sports", Star Sports 1 Tamil HD
+https://cdn.tamilultra.co.uk/SPTAMIL/index.m3u8?token=f595b745980f3964bab0d6a734486e73f8819667-8581b7d4348aba8487b3e56104f3eaa4-1781042017-1781020417
+
+#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" group-title="Tamil", KTV HD
+https://cdn.tamilultra.co.uk/KTV_HD/tracks-v1a1/mono.m3u8?token=97d4b3ba6e56bba38d982c9f8fb4bdb47dceb49e-d9f9d73a32473060b77ed62a3ef92f9b-1781042048-1781020448
+
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-language="Tamil" group-title="Tamil", Sun Music HD
+https://cdn.tamilultra.co.uk/SUN_MUSIC_HD/index.m3u8?token=e0438d9f742dfe6eeb51229fc2449fe7fa911060-9a1b8df6e38f57002cc7d6904cd26706-1781042241-1781020641
+
+#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" tvg-language="Tamil" group-title="Tamil", Colors Tamil HD
