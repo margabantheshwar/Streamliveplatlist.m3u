@@ -85,3 +85,13 @@ https://cdn.tamilultra.co.uk/KTV_HD/tracks-v1a1/mono.m3u8?token=97d4b3ba6e56bba3
 https://cdn.tamilultra.co.uk/SUN_MUSIC_HD/index.m3u8?token=e0438d9f742dfe6eeb51229fc2449fe7fa911060-9a1b8df6e38f57002cc7d6904cd26706-1781042241-1781020641
 
 #EXTINF:-1 tvg-id="Colors-Tamil-HD" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" tvg-language="Tamil" group-title="Tamil", Colors Tamil HD
+
+  {
+      "id": "ss2tam",
+      "name": "Star Sports 2 Tamil HD",
+      "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1781063193~exp=1781084793~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=528399ae661aeff2a34066947b4632de2af77ddd70bed6f62d250436686db24a",
+      "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
+      "key": "63e3ae853f483a86752b5b9e6d61eb20",
+      "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg"
+    }
