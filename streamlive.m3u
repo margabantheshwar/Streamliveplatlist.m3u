@@ -86,7 +86,7 @@ https://cdn2.tamilultra.co.uk/UNITE8_2_HD/tracks-v1a1/mono.m3u8?token=7a801c3047
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fifa_world_cup_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="English" group-title="Sports",FIFA World Cup 2026
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=2500000.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="tamilgold" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",TamilGold
 https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
