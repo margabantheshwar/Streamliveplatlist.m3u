@@ -77,7 +77,7 @@ https://cdn.tamilultra.co.uk/KTV_HD/tracks-v1a1/mono.m3u8?token=97d4b3ba6e56bba3
 https://cdn.tamilultra.co.uk/SUN_MUSIC_HD/index.m3u8?token=e0438d9f742dfe6eeb51229fc2449fe7fa911060-9a1b8df6e38f57002cc7d6904cd26706-1781042241-1781020641
 
 #EXTINF:-1 tvg-id="unite8_sport_1" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-1
-https://cdn2.tamilultra.co.uk/UNITE8_1_HD/tracks-v1a1/mono.m3u8?token=7e6441a0f007638c769ee32b062c4a3d83fc2c99-3cb4c48725b79bc9c7f84d77e00e8692-1781294762-1781273162
+https://cdn2.tamilultra.co.uk/UNITE8_1_HD/index.m3u8?token=bc9095eb95266d36a294a4d51bc14d96709f63b1-80a2cd10dfaec97badd4015998ab0a90-1781296683-1781275083
 
 #EXTINF:-1 tvg-id="unite8_sport_2" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-2
 https://cdn2.tamilultra.co.uk/UNITE8_2_HD/tracks-v1a1/mono.m3u8?token=7a801c304737549189c44a7a590af111eceb93d7-eca17d3183fbdb38308395cf43029fae-1781181050-1781159450
@@ -91,7 +91,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 #EXTINF:-1 tvg-id="tamilgold" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",TamilGold
 https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
 
-#EXTINF:-1 tvg-id="superfine_films_tamil" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",Superfine Films Tamil
-# Access-Control-Allow-Origin: https://bhoomtv.com
-https://supertamil.keralive.workers.dev/suptam/manifest/4.m3u8
+#EXTINF:-1 tvg-id="tvri-indo"tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Sports", TVRI INDO
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
