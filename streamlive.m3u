@@ -91,6 +91,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 #EXTINF:-1 tvg-id="tamilgold" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",TamilGold
 https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
 
-#EXTINF:-1 tvg-id="tvri-indo"tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Sports", TVRI INDO
+#EXTINF:-1 tvg-id="tvri-indo" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Sports", TVRI INDO
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
