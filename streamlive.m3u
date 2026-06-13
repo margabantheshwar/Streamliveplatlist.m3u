@@ -94,3 +94,12 @@ https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658
 #EXTINF:-1 tvg-id="tvri-indo" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" tvg-language="English" group-title="Sports", TVRI INDO
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-id="1173" group-title="JIO ⭕|Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png",Zee Keralam SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1173
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
+https://keys.vodep39240327.workers.dev/mpd/1173
+
+
+
