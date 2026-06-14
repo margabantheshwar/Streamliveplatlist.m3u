@@ -28,6 +28,17 @@
   "keyId": "34475edab991ad5e92548aebd710410a",
   "key": "501b209cccd323ac00bf5ac15b406cb4",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
+ },
+ {
+  "name": "Prime",
+  "id": "prime",
+  "category": "Sports",
+  "language": "English",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+  "keyId": "ee0c99be51120d109657df5229b48b01",
+  "key": "6f0cc18e09de8ec73414bb2209d6c63b",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
  }
+
 
 ]
