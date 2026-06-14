@@ -1,115 +1,82 @@
-#EXTINF:-1 tvg-id="mgm_presents_new" tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" tvg-language="English" group-title="English",MGM Presents
-https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-origin/out/v1/live_1080.m3u8
-
-#EXTINF:-1 tvg-id="best_action_new" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" tvg-language="English" group-title="English",Best Action
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="at_the_movie_new" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png/900" tvg-language="English" group-title="English",At The Movie
-https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist480P.m3u8
-
-#EXTINF:-1 tvg-id="f1_tv_master" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" tvg-language="English" group-title="Sports",F1 TV
-https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sony_movies_master" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" tvg-language="English" group-title="International",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="bbc_earth_master" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" tvg-language="English" group-title="International",BBC Earth
-https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858.m3u8
-
-#EXTINF:-1 tvg-id="popcorn_flix_master" tvg-logo="https://image.roku.com/developer_channels/prod/b54f776fe989512130e4c758829cd80cb5ff65ca81ac1f0ce6fb0c6f24577880.png" tvg-language="English" group-title="International",Popcorn Flix
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099474.m3u8
-
-#EXTINF:-1 tvg-id="universal_action_master" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/600x337.webp?type=channelTile" tvg-language="English" group-title="International",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
-
-#EXTINF:-1 tvg-id="wowkidz_tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-tamil.jpg" tvg-language="Tamil" group-title="Kids",WOW Kidz Tamil
-https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="AstroVellithirai" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png" tvg-language="Tamil" group-title="Movies",Astro Vellithirai HD
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:C4:70:80&stream=383137&extension=ts
-
-#EXTINF:-1 tvg-id="ts663" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" tvg-language="Tamil" group-title="Movies",Tata Play Tamil Cinema
-http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281614&extension=ts
-
-#EXTINF:-1 tvg-id="willow_cricket" tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" tvg-language="English" group-title="Sports",Willow Cricket
-https://allinonereborn.online/opplex/live128.php?id=167583
-
-#EXTINF:-1 tvg-id="willow_tv" tvg-logo="https://i.ibb.co/tMykG5j/willow.png" tvg-language="English" group-title="Sports",Willow TV
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" tvg-language="English" group-title="Sports",Sky Sports Cricket
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
-
-#EXTINF:-1 tvg-id="fox_sports_501" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" tvg-language="English" group-title="Sports",Fox Sports 501 HD
-https://cors-everywhere-wc8b4.ondigitalocean.app/http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
-
-#EXTINF:-1 tvg-id="geo_super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" tvg-language="Urdu" group-title="Sports",Geo Super
-http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
-
-#EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" tvg-language="Urdu" group-title="Sports",A Sports HD
-http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
-
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" tvg-language="Japanese" group-title="Kids",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sun-TV-HD" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" group-title="Tamil", Sun TV HD
-https://cdn.tamilultra.co.uk/SUN_TV_HD/index.m3u8?token=7d76b9c3395e023276107a510215fb150d0de501-2151d162a8a4d69bec19cf961cb37a85-1781041760-1781020160
-
-#EXTINF:-1 tvg-id="Star-Vijay-HD" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Tamil", Star Vijay HD
-https://cdn.tamilultra.co.uk/STAR_VIJAY/index.m3u8?token=1e3431fdcbd0c067fbc8d391c4a803e20280fb2f-878b6aa27b828cdc9ce7e57e331ee84f-1781042162-1781020562
-
-#EXTINF:-1 tvg-id="Zee-Tamil" tvg-name="Zee Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamil.png" tvg-language="Tamil" group-title="Tamil", Zee Tamil
-https://cdn.tamilultra.co.uk/ZEE_TAMIL_HD/index.m3u8?token=e549b6cf3d0d78cf37221500a486b636ed66da3a-1b441e8aef28c7ad3c5afbe9519f86fb-1781042129-1781020529
-
-#EXTINF:-1 tvg-id="Zee-Thirai" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" tvg-language="Tamil" group-title="Tamil", Zee Thirai HD
-https://cdn.tamilultra.co.uk/ZEE_THIRAI_HD/index.m3u8?token=72a0421d1e2b3714fa640617b77b336e55dc5f161-2a0e6067441c146ad10cf98ac5daadfe-1781042079-1781020479
-
-#EXTINF:-1 tvg-id="Vijay-Super-HD" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" tvg-language="Tamil" group-title="Tamil", Vijay Super HD
-https://cdn.tamilultra.co.uk/VIJAY_SUPER/index.m3u8?token=2ba1be9d10acfddc0273ed804751ada1108e787e-3b4b4e534f74deabc73ae8997a804b4e-1781042207-1781020607
-
-#EXTINF:-1 tvg-id="Star-Sports-1-Tamil-HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" tvg-language="Tamil" group-title="Sports", Star Sports 1 Tamil HD
-https://cdn.tamilultra.co.uk/SPTAMIL/index.m3u8?token=f595b745980f3964bab0d6a734486e73f8819667-8581b7d4348aba8487b3e56104f3eaa4-1781042017-1781020417.m3u8
-
-#EXTINF:-1 tvg-id="KTV-HD" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" group-title="Tamil", KTV HD
-https://cdn.tamilultra.co.uk/KTV_HD/tracks-v1a1/mono.m3u8?token=97d4b3ba6e56bba38d982c9f8fb4bdb47dceb49e-d9f9d73a32473060b77ed62a3ef92f9b-1781042048-1781020448
-
-#EXTINF:-1 tvg-id="Sun-Music-HD" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-language="Tamil" group-title="Tamil", Sun Music HD
-https://cdn.tamilultra.co.uk/SUN_MUSIC_HD/index.m3u8?token=e0438d9f742dfe6eeb51229fc2449fe7fa911060-9a1b8df6e38f57002cc7d6904cd26706-1781042241-1781020641
-
-#EXTINF:-1 tvg-id="unite8_sport_1" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-1
-https://cdn2.tamilultra.co.uk/UNITE8_1_HD/index.m3u8?token=bc9095eb95266d36a294a4d51bc14d96709f63b1-80a2cd10dfaec97badd4015998ab0a90-1781296683-1781275083
-
-#EXTINF:-1 tvg-id="unite8_sport_2" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-2
-https://cdn2.tamilultra.co.uk/UNITE8_2_HD/tracks-v1a1/mono.m3u8?token=7a801c304737549189c44a7a590af111eceb93d7-eca17d3183fbdb38308395cf43029fae-1781181050-1781159450
-
-#EXTINF:-1 tvg-id="fifa_plus" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" tvg-language="English" group-title="Sports",FIFA+
-https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fifa_world_cup_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="English" group-title="Sports",FIFA World Cup 2026
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="tamilgold" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",TamilGold
-https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
-
-#EXTINF:-1 tvg-id="tvri-indo" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" tvg-language="English" group-title="Sports", TVRI INDO
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-id="1173" group-title="JIO ⭕|Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png",Zee Keralam SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/key/1173
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
-https://keys.vodep39240327.workers.dev/mpd/1173
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="" tvg-language="English" group-title="English",BeIN SPORTS XTRA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="" tvg-language="Spanish" group-title="Spanish",BeIN SPORTS XTRA En Espanol
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-
-
-
+[
+  {
+    "name": "MGM Presents",
+    "id": "1",
+    "category": "English",
+    "language": "English",
+    "url": "https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-origin/out/v1/live_1080.m3u8",
+    "logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061592882_MGMPresents_HUDLogo_Centered_260x147.png"
+  },
+  {
+    "name": "Best Action",
+    "id": "2",
+    "category": "English",
+    "language": "English",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png"
+  },
+  {
+    "name": "At The Movie",
+    "id": "3",
+    "category": "English",
+    "language": "English",
+    "url": "https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist480P.m3u8",
+    "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png/900"
+  },
+  {
+    "name": "F1 TV",
+    "id": "4",
+    "category": "Sports",
+    "language": "English",
+    "url": "https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8",
+    "logo": "https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png"
+  },
+  {
+    "name": "Sony Movies",
+    "id": "5",
+    "category": "International",
+    "language": "English",
+    "url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png"
+  },
+  {
+    "name": "WOW Kidz Tamil",
+    "id": "6",
+    "category": "Kids",
+    "language": "Tamil",
+    "url": "https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-tamil.jpg"
+  },
+  {
+    "name": "Willow TV",
+    "id": "7",
+    "category": "Sports",
+    "language": "English",
+    "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+    "logo": "https://i.ibb.co/tMykG5j/willow.png"
+  },
+  {
+    "name": "Animax",
+    "id": "8",
+    "category": "Kids",
+    "language": "Japanese",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png"
+  },
+  {
+    "name": "Sun TV HD",
+    "id": "9",
+    "category": "Tamil",
+    "language": "Tamil",
+    "url": "https://cdn.tamilultra.co.uk/SUN_TV_HD/index.m3u8?token=7d76b9c3395e023276107a510215fb150d0de501-2151d162a8a4d69bec19cf961cb37a85-1781041760-1781020160",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png"
+  },
+  {
+    "name": "Star Vijay HD",
+    "id": "10",
+    "category": "Tamil",
+    "language": "Tamil",
+    "url": "https://cdn.tamilultra.co.uk/STAR_VIJAY/index.m3u8?token=1e3431fdcbd0c067fbc8d391c4a803e20280fb2f-878b6aa27b828cdc9ce7e57e331ee84f-1781042162-1781020562",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png"
+  }
+]
