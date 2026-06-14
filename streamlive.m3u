@@ -51,3 +51,27 @@ http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png" tvg-language="Japanese" group-title="Kids",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="unite8_sport_1" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-1
+https://cdn2.tamilultra.co.uk/UNITE8_1_HD/index.m3u8?token=bc9095eb95266d36a294a4d51bc14d96709f63b1-80a2cd10dfaec97badd4015998ab0a90-1781296683-1781275083
+
+#EXTINF:-1 tvg-id="unite8_sport_2" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-2
+https://cdn2.tamilultra.co.uk/UNITE8_2_HD/tracks-v1a1/mono.m3u8?token=7a801c304737549189c44a7a590af111eceb93d7-eca17d3183fbdb38308395cf43029fae-1781181050-1781159450
+
+#EXTINF:-1 tvg-id="fifa_plus" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" tvg-language="English" group-title="Sports",FIFA+
+https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fifa_world_cup_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="English" group-title="Sports",FIFA World Cup 2026
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="tamilgold" tvg-logo="" tvg-language="Tamil" group-title="Tamil Local",TamilGold
+https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658d1ea540a8f3edbbbf0/tamilgold_2500k.m3u8
+
+#EXTINF:-1 tvg-id="tvri-indo" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" tvg-language="English" group-title="Sports", TVRI INDO
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-logo="" tvg-language="English" group-title="English",BeIN SPORTS XTRA
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol" tvg-logo="" tvg-language="Spanish" group-title="Spanish",BeIN SPORTS XTRA En Espanol
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
