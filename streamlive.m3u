@@ -101,10 +101,14 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTHTTP:{"Origin":"https://jiotv.com/","Referer":"https://jiotv.com/"}
 https://keys.vodep39240327.workers.dev/mpd/1173
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg?width=1400&upscale=true" tvg-language="English" group-title="Sports",BeIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="" tvg-language="English" group-title="English",BeIN SPORTS XTRA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol" tvg-logo="https://assets.goal.com/images/v3/blt11f0ca9698828744/beINSPORTS-XTRA_ESPANOL-LOGO.jpg?auto=webp&format=pjpg&width=3840&quality=60" tvg-language="Spanish" group-title="Sports",BeIN SPORTS XTRA En Espanol
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="" tvg-language="Spanish" group-title="Spanish",BeIN SPORTS XTRA En Espanol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
 
