@@ -79,4 +79,14 @@
     "url": "https://cdn.tamilultra.co.uk/STAR_VIJAY/index.m3u8?token=1e3431fdcbd0c067fbc8d391c4a803e20280fb2f-878b6aa27b828cdc9ce7e57e331ee84f-1781042162-1781020562",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png"
   }
+  {
+    "name": "FOX Sports us",
+    "id": "fox-sports-us",
+    "category": "Sports",
+    "language": "English"
+    "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "keyId": "f6564ec2aee819046328a0e153be574d",
+    "key": "ff46a8a1031eb27ef22576a077c98ab7",
+    "logo": "https://en.wikipedia.org/wiki/Fox_Sports_1"
+}
 ]
