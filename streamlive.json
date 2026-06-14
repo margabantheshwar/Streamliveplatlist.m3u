@@ -1,85 +1,5 @@
 [
   {
-    "name": "MGM Presents",
-    "id": "1",
-    "category": "English",
-    "language": "English",
-    "url": "https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-origin/out/v1/live_1080.m3u8",
-    "logo": "https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061592882_MGMPresents_HUDLogo_Centered_260x147.png"
-  },
-  {
-    "name": "Best Action",
-    "id": "2",
-    "category": "English",
-    "language": "English",
-    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png"
-  },
-  {
-    "name": "At The Movie",
-    "id": "3",
-    "category": "English",
-    "language": "English",
-    "url": "https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist480P.m3u8",
-    "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png/900"
-  },
-  {
-    "name": "F1 TV",
-    "id": "4",
-    "category": "Sports",
-    "language": "English",
-    "url": "https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8",
-    "logo": "https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png"
-  },
-  {
-    "name": "Sony Movies",
-    "id": "5",
-    "category": "International",
-    "language": "English",
-    "url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png"
-  },
-  {
-    "name": "WOW Kidz Tamil",
-    "id": "6",
-    "category": "Kids",
-    "language": "Tamil",
-    "url": "https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-tamil.jpg"
-  },
-  {
-    "name": "Willow TV",
-    "id": "7",
-    "category": "Sports",
-    "language": "English",
-    "url": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-    "logo": "https://i.ibb.co/tMykG5j/willow.png"
-  },
-  {
-    "name": "Animax",
-    "id": "8",
-    "category": "Kids",
-    "language": "Japanese",
-    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-    "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_1001225329215954789331277.png"
-  },
-  {
-    "name": "Sun TV HD",
-    "id": "9",
-    "category": "Tamil",
-    "language": "Tamil",
-    "url": "https://cdn.tamilultra.co.uk/SUN_TV_HD/index.m3u8?token=7d76b9c3395e023276107a510215fb150d0de501-2151d162a8a4d69bec19cf961cb37a85-1781041760-1781020160",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png"
-  },
-  {
-    "name": "Star Vijay HD",
-    "id": "10",
-    "category": "Tamil",
-    "language": "Tamil",
-    "url": "https://cdn.tamilultra.co.uk/STAR_VIJAY/index.m3u8?token=1e3431fdcbd0c067fbc8d391c4a803e20280fb2f-878b6aa27b828cdc9ce7e57e331ee84f-1781042162-1781020562",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png"
-  }
-  {
     "name": "FOX Sports us",
     "id": "fox-sports-us",
     "category": "Sports",
@@ -89,4 +9,14 @@
     "key": "ff46a8a1031eb27ef22576a077c98ab7",
     "logo": "https://en.wikipedia.org/wiki/Fox_Sports_1"
 }
+  {
+    "name": "Zee Keralam SD",
+    "id": "7",
+    "category": "Entertainment",
+    "language": "Malayalam",
+    "url": "https://keys.vodep39240327.workers.dev/mpd/1173",
+    "keyType": "clearkey",
+    "licenseKey": "https://keys.vodep39240327.workers.dev/key/1173",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png"
+  }
 ]
