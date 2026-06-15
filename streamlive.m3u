@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="mgm_presents_new" tvg-logo="https://image.roku.com/bh-uploads/production/infoHUDLogo/1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" tvg-language="English" group-title="English",MGM Presents
-https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-origin/out/v1/live_1080.m3u8
+https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-origin/out/v1/live_1080.ts
 
 #EXTINF:-1 tvg-id="best_action_new" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" tvg-language="English" group-title="English",Best Action
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
@@ -75,3 +75,45 @@ https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playl
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol" tvg-logo="" tvg-language="Spanish" group-title="Spanish",BeIN SPORTS XTRA En Espanol
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+
+  {
+    "name": "FOX Sports us",
+    "id": "fox-sports-us",
+    "category": "Sports",
+    "language": "English"
+    "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "keyId": "f6564ec2aee819046328a0e153be574d",
+    "key": "ff46a8a1031eb27ef22576a077c98ab7",
+    "logo": "https://en.wikipedia.org/wiki/Fox_Sports_1"
+  },
+  {
+    "name": "Zee Keralam SD",
+    "id": "7",
+    "category": "Entertainment",
+    "language": "Malayalam",
+    "url": "https://keys.vodep39240327.workers.dev/mpd/1173",
+    "keyType": "clearkey",
+    "licenseKey": "https://keys.vodep39240327.workers.dev/key/1173",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png"
+  },
+  {
+  "name": "Caze TV 60 fps",
+  "id": "caze-tv-60fps",
+  "category": "Sports",
+  "language": "English",
+  "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+  "keyId": "34475edab991ad5e92548aebd710410a",
+  "key": "501b209cccd323ac00bf5ac15b406cb4",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
+ },
+ {
+  "name": "Prime",
+  "id": "prime",
+  "category": "Sports",
+  "language": "English",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+  "keyId": "ee0c99be51120d109657df5229b48b01",
+  "key": "6f0cc18e09de8ec73414bb2209d6c63b",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
+ }
+
