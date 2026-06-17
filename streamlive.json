@@ -40,14 +40,14 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
  },  
    {
-    name: "FOX ONE",
-    id: "11",
-    category: "Sports",
-    language: "English",
-    url: "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    kid: "f6564ec2aee819046328a0e153be574d",
-    key: "ff46a8a1031eb27ef22576a077c98ab7",
-    logo: "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
+    "name": "FOX ONE",
+    "id": "11",
+    "category": "Sports",
+    "language": "English",
+    "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "kid": "f6564ec2aee819046328a0e153be574d",
+    "key": "ff46a8a1031eb27ef22576a077c98ab7",
+    "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
   }
 
 
