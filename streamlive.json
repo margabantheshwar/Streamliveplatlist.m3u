@@ -40,26 +40,7 @@
   "key": "6f0cc18e09de8ec73414bb2209d6c63b",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sports_icon.png"
  },  
-   {
-    "name": "FOX ONE",
-    "id": "11",
-    "category": "Sports",
-    "language": "English",
-    "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    "kid": "f6564ec2aee819046328a0e153be574d",
-    "key": "ff46a8a1031eb27ef22576a077c98ab7",
-    "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
-  },
-   {
-  "name": "FOX ONE HD",
-  "id": "18",
-  "category": "Sports",
-  "language": "English",
-  "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-  "keyId": "c620c93c60c04999eb9ddc28ecfb70a8",
-  "key": "e76a709c251313190e76cb3c3d3a5824",
-  "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
-},
+
 
 
    
