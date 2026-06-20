@@ -9,16 +9,17 @@
     "key": "ff46a8a1031eb27ef22576a077c98ab7",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png"
   },
-  {
-    "name": "Zee Keralam SD",
-    "id": "7",
-    "category": "Entertainment",
-    "language": "Malayalam",
-    "url": "https://keys.vodep39240327.workers.dev/mpd/1173",
-    "keyType": "clearkey",
-    "licenseKey": "https://keys.vodep39240327.workers.dev/key/1173",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png"
-  },
+   {
+  "name": "Zee Keralam SD",
+  "id": "1173",
+  "category": "Entertainment",
+  "language": "Malayalam",
+  "url": "https://keys.vodep39240327.workers.dev/mpd/1173",
+  "keyId": "1173",
+  "key": "https://keys.vodep39240327.workers.dev/key/1173",
+  "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png"
+}
+
   {
   "name": "Caze TV 60 fps",
   "id": "caze-tv-60fps",
@@ -59,26 +60,6 @@
   "key": "e76a709c251313190e76cb3c3d3a5824",
   "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
 },
-{
-  "name": "FUSSBALL TV - AQ",
-  "id": "101",
-  "category": "FIFA WC 2026",
-  "language": "German",
-  "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-  "keyId": "1cb20afcd9d979c833cfd208c7d3eeb2",
-  "key": "fef0c15b4a523370892edd5e4133c269",
-  "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png"
-},
-{
-  "name": "FOX SPORTS HD",
-  "id": "102",
-  "category": "FIFA WC 2026",
-  "language": "English",
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-  "keyId": "c620c93c60c04999eb9ddc28ecfb70a8",
-  "key": "e76a709c251313190e76cb3c3d3a5824",
-  "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png"
-}
 
 
    
