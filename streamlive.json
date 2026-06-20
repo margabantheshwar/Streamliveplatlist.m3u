@@ -50,16 +50,6 @@
     "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
   },
    {
-  "name": "D Sports",
-  "id": "d-sports",
-  "category": "Sports",
-  "language": "English",
-  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-  "keyId": "a7d11d37a1f7611ee88d4db880171f32",
-  "key": "68f96d618b0b956b008c445896a25a79",
-  "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg"
-},
-   {
   "name": "FOX ONE HD",
   "id": "18",
   "category": "Sports",
@@ -68,7 +58,21 @@
   "keyId": "c620c93c60c04999eb9ddc28ecfb70a8",
   "key": "e76a709c251313190e76cb3c3d3a5824",
   "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
-}
+},
+   
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FUSSBALL TV - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 
    
 
