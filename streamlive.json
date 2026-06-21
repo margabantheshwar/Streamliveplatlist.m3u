@@ -1,15 +1,16 @@
 [
    {
-    "name": "FOX Sports us",
-    "id": "fox-sports-us",
-    "category": "Sports",
-    "language": "English"
-    "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-    "keyId": "f6564ec2aee819046328a0e153be574d",
-    "key": "ff46a8a1031eb27ef22576a077c98ab7",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png"
-  },
-   {
+  "name": "Fox One",
+  "id": "fox-one",
+  "category": "Sports",
+  "language": "English",
+  "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+  "keyId": "f6564ec2aee819046328a0e153be574d",
+  "key": "ff46a8a1031eb27ef22576a077c98ab7",
+  "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
+}
+
+{
   "name": "Zee Keralam SD",
   "id": "1173",
   "category": "Entertainment",
