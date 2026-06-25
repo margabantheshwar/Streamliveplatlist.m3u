@@ -79,8 +79,11 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 #EXTINF:-1 tvg-id="fifa_malayalam_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="Malayalam" group-title="Sports",Fifa Malayalam 2026
 https://ts.sptck.cfd/hls/tist1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" tvg-language="English" group-title="tamil". SUN TV FHD
-http://mxonlive.xyz/live/xap/380967.m3u8?e=1782480067&token=6855283870fd3a1df98b46974af836936cffbad7e77c9a9059b6553495fe21fd
+#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" group-title="Entertainment", Sun TV HD
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Tamil" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/colors_in.png" tvg-language="Tamil" group-title="Tamil", Colors Tamil
+http://mxonlive.xyz/live/xap/388808.m3u8?e=1782480067&token=693fa583c5a336d4a582f0400b8e50fa84e429a1d1c68b3e0d315287db1c4107
 
 
 
