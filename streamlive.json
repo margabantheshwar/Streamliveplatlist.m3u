@@ -10626,6 +10626,8 @@
 {
   "id": "sony1",
   "name": "Sony Sports 1 HD",
+  "category": "Sports",
+  "language": "English",
   "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd",
   "cookie": "__hdnea__=st=1782617442~exp=1782639042~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=fba6c0e2d0bca2543f30d312e4de2e9652c4c1b7759c940628f3c33b41d3f661",
   "keyId": "523acf1f55485476817958a62a3f2ed9",
@@ -10635,6 +10637,8 @@
 {
   "id": "sony3",
   "name": "Sony Sports 3 HD",
+  "category": "Sports",
+  "language": "Hindi",
   "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd",
   "cookie": "__hdnea__=st=1782617443~exp=1782639043~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=7ea77ebc16fdf734912d39e4dc277d61ab7f083b1dfa5fed66f383d2f9b504ca",
   "keyId": "71719eea0bbb5319a4e854ac52ea7871",
