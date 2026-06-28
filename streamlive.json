@@ -10624,15 +10624,15 @@
   "logo": "https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png"
 }
   {
-  id: "sony2",
-  name: "Sony Sports 1 Mobile",
-  url: "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/dash/Ten_HD_MOB-video=2293600-1069591653005.dash?__hdnea__=st=1782646544~exp=1782668144~acl=/*~hmac=e2560e08cb8729ed55ca6b375cfb4fa4140af723692f33fa4e755bcc9556a2f0",
-  cookie: "__hdnea__=st=1782646544~exp=1782668144~acl=/*~hmac=e2560e08cb8729ed55ca6b375cfb4fa4140af723692f33fa4e755bcc9556a2f0",
-  keyId: "523acf1f55485476817958a62a3f2ed9",
-  key: "52b3cea435ed25d445f9eae4883c7001",
-  logo: "https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-08/2604083372005.jpg?width=700",
-  group: "Sports",
-  userAgent: "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6"
+  "id": "sony2",
+  "name": "Sony Sports 1 Mobile",
+  "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/dash/Ten_HD_MOB-video=2293600-1069591653005.dash?__hdnea__=st=1782646544~exp=1782668144~acl=/*~hmac=e2560e08cb8729ed55ca6b375cfb4fa4140af723692f33fa4e755bcc9556a2f0",
+  "cookie": "__hdnea__=st=1782646544~exp=1782668144~acl=/*~hmac=e2560e08cb8729ed55ca6b375cfb4fa4140af723692f33fa4e755bcc9556a2f0",
+  "keyId": "523acf1f55485476817958a62a3f2ed9",
+  "key": "52b3cea435ed25d445f9eae4883c7001",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-08/2604083372005.jpg?width=700",
+  "category": "Sports",
+  "userAgent": "plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6"
 }
 
 
