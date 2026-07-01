@@ -95,16 +95,16 @@ https://mxonlive.com/stream/373197
 #EXTINF:-1 tvg-id="fox-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" tvg-language="English" group-title="Sports",Fox Sports 2
 https://mxonlive.com/stream/1745109
 
-#EXTINF:-1 tvg-id="3372" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" tvg-language="English" group-title="Sports",Sony LIV Sports 1
+#EXTINF:-1 tvg-id="sony-liv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" tvg-language="English" group-title="Sports",Sony LIV Sports 1
 https://mxonlive.com/stream/373200
 
-#EXTINF:-1 tvg-id="3373" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" tvg-language="English" group-title="Sports",Sony LIV Sports 2
+#EXTINF:-1 tvg-id="sony-liv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" tvg-language="English" group-title="Sports",Sony LIV Sports 2
 https://mxonlive.com/stream/373199
 
-#EXTINF:-1 tvg-id="3374" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" tvg-language="English" group-title="Sports",Sony LIV Sports 3
+#EXTINF:-1 tvg-id="sony-liv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" tvg-language="English" group-title="Sports",Sony LIV Sports 3
 https://mxonlive.com/stream/373198
 
-#EXTINF:-1 tvg-id="3399" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" tvg-language="English" group-title="Sports",Sony LIV Sports 5
+#EXTINF:-1 tvg-id="sony-liv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" tvg-language="English" group-title="Sports",Sony LIV Sports 5
 https://mxonlive.com/stream/373196
 
 
