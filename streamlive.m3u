@@ -79,10 +79,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 #EXTINF:-1 tvg-id="fifa_malayalam_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="Malayalam" group-title="Sports",Fifa Malayalam 2026
 https://ts.sptck.cfd/hls/tist1.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="fifa_malayalam_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="Malayalam" group-title="Sports",Fifa Malayalam 2026
-https://ts.sptck.cfd/hls/tist1.m3u8
 
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" tvg-language="English" group-title="English",And Flix HD
 https://mxonlive.com/stream/372989
