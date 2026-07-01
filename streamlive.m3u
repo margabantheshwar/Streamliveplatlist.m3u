@@ -28,14 +28,11 @@ https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u
 #EXTINF:-1 tvg-id="AstroVellithirai" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png" tvg-language="Tamil" group-title="Movies",Astro Vellithirai HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:C4:70:80&stream=383137&extension=ts
 
-#EXTINF:-1 tvg-id="ts663" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31376-jlxbt6kg-v2/imageContent-31376-jlxbt6kg-m2.png" tvg-language="Tamil" group-title="Movies",Tata Play Tamil Cinema
-http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281614&extension=ts
-
 #EXTINF:-1 tvg-id="willow_tv" tvg-logo="https://i.ibb.co/tMykG5j/willow.png" tvg-language="English" group-title="Sports",Willow TV
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" tvg-language="English" group-title="Sports",Sky Sports Cricket
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+https://mxonlive.com/stream/1311995
 
 #EXTINF:-1 tvg-id="fox_sports_501" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" tvg-language="English" group-title="Sports",Fox Sports 501 HD
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
