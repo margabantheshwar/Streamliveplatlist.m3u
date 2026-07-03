@@ -697,9 +697,7 @@
         "name": "And TV HD",
         "id": "472",
         "category": "Entertainment",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd",
-        "keyId": "88295124db295a6b9f5027dc6049e294",
-        "key": "641c40230a95cb76d1949125f9552fda",
+        "url": "https://mxonlive.com/stream/944622",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png"
     },
     {
@@ -5890,9 +5888,7 @@
         "name": "And Xplor HD",
         "id": "1668",
         "category": "Movies",
-        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd",
-        "keyId": "67e52f4bdcfc525898be0446feb7f185",
-        "key": "8cf5c24b168105bca24b358eb05f6df4",
+        "url": "https://mxonlive.com/stream/372925",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png"
     },
     {
@@ -6214,9 +6210,7 @@
         "name": "And Pictures",
         "id": "1839",
         "category": "Movies",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AndPictures_MOB/WDVLive/index.mpd",
-        "keyId": "5d495d29b3e754748389f04dab476c89",
-        "key": "2509aac0c21ca795b28d3e3ed3ad96df",
+        "url": "https://mxonlive.com/stream/944620"
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPictures.png"
     },
     {
