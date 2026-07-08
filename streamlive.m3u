@@ -101,17 +101,6 @@ https://mxonlive.com/stream/1641637
 #EXTINF:-1 tvg-id="sony3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png" tvg-language="Hindi" group-title="Sports",Sony Sports Hindi HD
 https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/rP136NxcTszZTQCZVvZHuFf3mgvZy01fC5eu53om9NgQIuCoPSqWs4f5VWFGfFOFXYCT0000QUc1DMD2u4B00qSWmHrvRPsuycC8/rendition.m3u8?cdn=fastly&expires=1783569600&skid=default&signature=NmE0ZjFjYzBfNzhlYjJiYzdiYTFiMjZjN2NjZDRkOGZmZjdjNGJlN2ZlMmE3Nzk1NzBjNGRmNzc3MDJiMmExOTA1NTllYjExNA==
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode", Belgium vs Gibraltar (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)
-https://in-mc-fblive.fancode.com/mumbai/4246559_english_hls_d4832ad8ca38870_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Fancode", Denmark vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)
-https://in-mc-fblive.fancode.com/mumbai/4246561_english_hls_33740bb1a365914_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg" group-title="Fancode", Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)
-https://in-mc-fblive.fancode.com/mumbai/143631_english_hls_e8be295a7c90161_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143443_6134_MW_SY_FC-WEB_1782272593203.jpg" group-title="Fancode
-", Shivamogga Yodhas vs Mysore Warriors (Maharaja T20 Trophy, 2026)
-https://in-mc-fblive.fancode.com/mumbai/143443_english_hls_942fac67a49847_1ta-di_h264/index.m3u8
 
 
