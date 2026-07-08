@@ -5,7 +5,7 @@ https://aka-live1050.delivery.roku.com/3cc1026b-6105-4bc0-91d5-5cd1bc3df6a2/t2-o
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="at_the_movie_new" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png/900" tvg-language="English" group-title="English",At The Movie
-https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist480P.m3u8
+https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist480P.m3u8 
 
 #EXTINF:-1 tvg-id="f1_tv_master" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" tvg-language="English" group-title="Sports",F1 TV
 https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8
