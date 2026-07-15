@@ -15,7 +15,7 @@
  {
     id: "suryan-fm",
     name: "Suryan FM",
-    group: "fm",
+    group: "Tamil FM Radio",
     logo: "https://radiosindia.com/images/suryanfm.jpg",
     url: "https://listen.openstream.co/6714/audio.mp3"
   },
