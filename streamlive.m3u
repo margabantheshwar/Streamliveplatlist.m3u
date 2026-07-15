@@ -47,7 +47,7 @@ http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unite8_sport_1" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-1
-https://cdn2.tamilultra.co.uk/UNITE8_1_HD/index.m3u8?token=6d3d9c5f03a27a562e7aad53567efb20a8b7eac2-b3315742efe989032855d56960ddabae-1782397989-1782376389
+http://103.155.18.186:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="unite8_sport_2" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-language="English" group-title="Sports",Unite 8 Sport-2
 https://mxonlive.com/stream/1526436
