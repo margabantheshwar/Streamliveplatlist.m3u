@@ -11,4 +11,11 @@
     group: "Vaanam",
     logo: "https://vaanamfm.com/wp-content/uploads/2021/04/cropped-Vaanam-FM-Logo-1-192x192.png",
     url: "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
-  }
+  },
+ {
+    id: "suryan-fm",
+    name: "Suryan FM",
+    group: "fm",
+    logo: "https://radiosindia.com/images/suryanfm.jpg",
+    url: "https://listen.openstream.co/6714/audio"
+  },
