@@ -19,3 +19,10 @@
     logo: "https://radiosindia.com/images/suryanfm.jpg",
     url: "https://listen.openstream.co/6714/audio.mp3"
   },
+ {
+    id: "gilli-fm",
+    name: "Gilli FM",
+    group: "Tamil FM Radio",
+    logo: "https://radiosindia.com/images/radiogilli123.jpg",
+    url: "https://stream1.rcast.net/73058.mp3"
+  },
