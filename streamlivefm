@@ -40,18 +40,26 @@
     logo: "https://radiosindia.com/images/isaiolifmnew.jpg",
     url: "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1690715251340"
   },
- {
+  {
+    id: "RadioBeatRetro",
+    name: "Radio Beat Retro",
+    group: "Tamil FM Radio",
+    logo: "https://radiosindia.com/images/radiobeatretro.jpg",
+    url: "https://listen.openstream.co/4732/audio"
+  },
+  {
     id: "90s-air-tamil-melodies",
     name: "90's Air Tamil Melodies",
     group: "Tamil FM Radio",
     logo: "",
     url: "https://stream.zeno.fm/06ar0cnafwzuv.aac"
   },
- {
+  {
     id: "AmericanTamilFM",
     name: "American Tamil FM",
     group: "Tamil FM Radio",
     logo: "https://www.tamilradios.com/assets/img/radio-logos/american-tamil-radio.jpg",
     url: "https://cp11.serverse.com/proxy/hgsmgluv/stream"
   },
+
 
