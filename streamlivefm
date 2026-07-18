@@ -13,6 +13,13 @@
     url: "https://centova.aarenworld.com/proxy/894tamilfm/stream.mp3"
   },
  {
+    id: "Big FM 92.7",
+    name: "Big FM 92.7",
+    group: "Big FM",
+    logo: "https://radiosindia.com/images/bigfmtamil.jpg",
+    url: "https://listen.openstream.co/4434/audio"
+  },
+ {
     id: "90s-air-tamil-melodies",
     name: "90's Air Tamil Melodies",
     group: "Tamil FM Radio",
@@ -20,7 +27,7 @@
     url: "https://stream.zeno.fm/06ar0cnafwzuv.aac"
   },
   {
-    id: "90s-air-tamil-song-melodies",
+    id: "vaanam",
     name: "Vaanam FM",
     group: "Vaanam",
     logo: "https://vaanamfm.com/logod.jpg",
