@@ -20,11 +20,11 @@
     url: "https://listen.openstream.co/4434/audio"
   },
  {
-    id: "90s-air-tamil-melodies",
-    name: "90's Air Tamil Melodies",
+    id: "GermanTamilFM",
+    name: "German Tamil FM",
     group: "Tamil FM Radio",
-    logo: "",
-    url: "https://stream.zeno.fm/06ar0cnafwzuv.aac"
+    logo: "https://radiosindia.com/images/germantamilfm.jpg",
+    url: "https://gtr-unicast2u.radioca.st/stream"
   },
   {
     id: "vaanam",
@@ -32,5 +32,12 @@
     group: "Tamil FM Radio",
     logo: "https://vaanamfm.com/logod.jpg",
     url: "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
+  },
+ {
+    id: "90s-air-tamil-melodies",
+    name: "90's Air Tamil Melodies",
+    group: "Tamil FM Radio",
+    logo: "",
+    url: "https://stream.zeno.fm/06ar0cnafwzuv.aac"
   },
 
