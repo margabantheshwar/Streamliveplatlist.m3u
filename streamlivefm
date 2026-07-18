@@ -15,7 +15,7 @@
  {
     id: "Big FM 92.7",
     name: "Big FM 92.7",
-    group: "Big FM",
+    group: "Tamil FM Radio",
     logo: "https://radiosindia.com/images/bigfmtamil.jpg",
     url: "https://listen.openstream.co/4434/audio"
   },
@@ -29,7 +29,7 @@
   {
     id: "vaanam",
     name: "Vaanam FM",
-    group: "Vaanam",
+    group: "Tamil FM Radio",
     logo: "https://vaanamfm.com/logod.jpg",
     url: "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
   },
