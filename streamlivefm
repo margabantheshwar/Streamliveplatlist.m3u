@@ -34,6 +34,13 @@
     url: "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
   },
  {
+    id: "IsaiOliFM",
+    name: "Isai Oli FM",
+    group: "Tamil FM Radio",
+    logo: "https://radiosindia.com/images/isaiolifmnew.jpg",
+    url: "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1690715251340"
+  },
+ {
     id: "90s-air-tamil-melodies",
     name: "90's Air Tamil Melodies",
     group: "Tamil FM Radio",
