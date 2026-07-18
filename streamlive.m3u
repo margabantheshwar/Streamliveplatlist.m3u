@@ -34,6 +34,9 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" tvg-language="English" group-title="Sports",Sky Sports Cricket
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=1SVS6GC5rwcdj-Q5LdZA9Q&expires=1784386232
 
+#EXTINF:-1 tvg-id="SkySportsmainevent" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" tvg-language="English" group-title="Sports",Sky Sports Main Event
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=cMkmrtQSVhJXgxVthtYaVQ&expires=1784386231
+
 #EXTINF:-1 tvg-id="fox_sports_501" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" tvg-language="English" group-title="Sports",Fox Sports 501 HD
 https://hugh.cdn.rumble.cloud/live/mu10xuf3/slot-37/zta4-vncc/chunklist.m3u8
 
