@@ -110,5 +110,7 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG (ENGLISH)
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqJRcGMd/Picsart-25-09-02-13-13-07-905.png" tvg-name="Sony Sports Ten 4 Tamil" group-title="Sports",Sony Sports Ten 4 Tamil
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
 
