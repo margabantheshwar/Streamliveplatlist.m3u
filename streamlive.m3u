@@ -107,7 +107,8 @@ https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/rP136NxcTszZTQCZVvZHuFf3mg
 #EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG TAMIL
-https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG (ENGLISH)
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+
 
 
