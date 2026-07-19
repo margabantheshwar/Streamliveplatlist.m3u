@@ -1,1 +1,14 @@
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG TAMIL
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG ENGLISH
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG TELUGU
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG TELUGU
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+
+#EXTINF:-1 tvg-id="indhvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG ENGLISH
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
