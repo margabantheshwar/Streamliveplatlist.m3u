@@ -67,6 +67,16 @@
   "keyId": "",
   "key": "",
   "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png"
+},
+{
+  "name": "FanCode",
+  "id": "fancode-live",
+  "category": "Sports",
+  "language": "Hindi",
+  "url": "https://in-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd",
+  "keyId": "87e80af08df44d1184a37a449b814978",
+  "key": "85633aaa416821e65278dcc980066447",
+  "logo": ""
 }
 
 
