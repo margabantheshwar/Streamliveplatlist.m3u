@@ -1,65 +1,65 @@
- {
-    id: "suryan-fm",
-    name: "Suryan FM",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/suryanfm.jpg",
-    url: "https://listen.openstream.co/6714/audio.mp3"
-  },
- {
-    id: "gilli-fm",
-    name: "Gilli FM",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/radiogilli123.jpg",
-    url: "https://centova.aarenworld.com/proxy/894tamilfm/stream.mp3"
-  },
- {
-    id: "Big FM 92.7",
-    name: "Big FM 92.7",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/bigfmtamil.jpg",
-    url: "https://listen.openstream.co/4434/audio"
-  },
- {
-    id: "GermanTamilFM",
-    name: "German Tamil FM",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/germantamilfm.jpg",
-    url: "https://gtr-unicast2u.radioca.st/stream"
+[
+  {
+    "id": "suryan-fm",
+    "name": "Suryan FM",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/suryanfm.jpg",
+    "url": "https://listen.openstream.co/6714/audio.mp3"
   },
   {
-    id: "vaanam",
-    name: "Vaanam FM",
-    group: "Tamil FM Radio",
-    logo: "https://vaanamfm.com/logod.jpg",
-    url: "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
-  },
- {
-    id: "IsaiOliFM",
-    name: "Isai Oli FM",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/isaiolifmnew.jpg",
-    url: "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1690715251340"
+    "id": "gilli-fm",
+    "name": "Gilli FM",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/radiogilli123.jpg",
+    "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream.mp3"
   },
   {
-    id: "RadioBeatRetro",
-    name: "Radio Beat Retro",
-    group: "Tamil FM Radio",
-    logo: "https://radiosindia.com/images/radiobeatretro.jpg",
-    url: "https://listen.openstream.co/4732/audio"
+    "id": "Big FM 92.7",
+    "name": "Big FM 92.7",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/bigfmtamil.jpg",
+    "url": "https://listen.openstream.co/4434/audio"
   },
   {
-    id: "90s-air-tamil-melodies",
-    name: "90's Air Tamil Melodies",
-    group: "Tamil FM Radio",
-    logo: "",
-    url: "https://stream.zeno.fm/06ar0cnafwzuv.aac"
+    "id": "GermanTamilFM",
+    "name": "German Tamil FM",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/germantamilfm.jpg",
+    "url": "https://gtr-unicast2u.radioca.st/stream"
   },
   {
-    id: "AmericanTamilFM",
-    name: "American Tamil FM",
-    group: "Tamil FM Radio",
-    logo: "https://www.tamilradios.com/assets/img/radio-logos/american-tamil-radio.jpg",
-    url: "https://cp11.serverse.com/proxy/hgsmgluv/stream"
+    "id": "vaanam",
+    "name": "Vaanam FM",
+    "language": "Tamil",
+    "logo": "https://vaanamfm.com/logod.jpg",
+    "url": "https://stream.vaanamfm.com/listen/vaanam_fm/radio.aac"
   },
-
-
+  {
+    "id": "IsaiOliFM",
+    "name": "Isai Oli FM",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/isaiolifmnew.jpg",
+    "url": "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1690715251340"
+  },
+  {
+    "id": "RadioBeatRetro",
+    "name": "Radio Beat Retro",
+    "language": "Tamil",
+    "logo": "https://radiosindia.com/images/radiobeatretro.jpg",
+    "url": "https://listen.openstream.co/4732/audio"
+  },
+  {
+    "id": "90s-air-tamil-melodies",
+    "name": "90's Air Tamil Melodies",
+    "language": "Tamil",
+    "logo": "",
+    "url": "https://stream.zeno.fm/06ar0cnafwzuv.aac"
+  },
+  {
+    "id": "AmericanTamilFM",
+    "name": "American Tamil FM",
+    "language": "Tamil",
+    "logo": "https://www.tamilradios.com/assets/img/radio-logos/american-tamil-radio.jpg",
+    "url": "https://cp11.serverse.com/proxy/hgsmgluv/stream"
+  }
+]
