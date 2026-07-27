@@ -75,5 +75,33 @@
     "language": "Odia",
     "logo": "https://radiosindia.com/images/sarthakfm.jpg",
     "url": "https://stream.zeno.fm/1t5ceyhcxbruv"
-  }
+  },
+  {
+    "id": "RadioMirchiKochi",
+    "name": "Radio Mirchi Kochi",
+    "language": "Malayalam",
+    "logo": "https://radiosindia.com/images/radiomirchi.jpg",
+    "url": "https://stream.aiir.com/dbv0rxpwp6ytv"
+  },
+  {
+    "id": "ClubFMRadioMalayalam",
+    "name": "Club FM 94.3 Radio Malayalam",
+    "language": "Malayalam",
+    "logo": "https://radiosindia.com/images/clubfm.jpg",
+    "url": "https://listen.openstream.co/4635/audio"
+  },
+ {
+    "id": "Home",
+    "name": "Home FM",
+    "language": "Malayalam",
+    "logo": "https://radiosindia.com/images/homefm.jpg",
+    "url": "https://centova.aarenworld.com/proxy/922radiokhushi/stream"
+  },
+  {
+    "id": "RadioKeralam",
+    "name": "Radio Keralam FM",
+    "language": "Malayalam",
+    "logo": "https://radiosindia.com/images/radiokeralam.jpg",
+    "url": "https://ice31.securenetsystems.net/RADIOKERAL"
+  } 
 ]
