@@ -103,5 +103,12 @@
     "language": "Malayalam",
     "logo": "https://radiosindia.com/images/radiokeralam.jpg",
     "url": "https://ice31.securenetsystems.net/RADIOKERAL"
+  },
+  {
+    "id": "RadioLemon",
+    "name": "Radio Lemon FM",
+    "language": "Malayalam",
+    "logo": "https://radiosindia.com/images/radiolemon.jpg",
+    "url": "https://live.sarrit.com:8040/radio.mp3"
   } 
 ]
