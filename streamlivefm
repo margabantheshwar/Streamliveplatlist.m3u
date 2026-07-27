@@ -61,5 +61,12 @@
     "language": "Tamil",
     "logo": "https://www.tamilradios.com/assets/img/radio-logos/american-tamil-radio.jpg",
     "url": "https://cp11.serverse.com/proxy/hgsmgluv/stream"
+  },
+  {
+    "id": "RadioJhalak",
+    "name": "Radio Jhalak FM",
+    "language": "Odia",
+    "logo": "https://radiosindia.com/images/radiojhalak.jpg",
+    "url": "https://usa3.fastcast4u.com/proxy/jkpanda06/stream"
   }
 ]
