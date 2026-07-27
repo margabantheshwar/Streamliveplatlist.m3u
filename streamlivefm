@@ -68,5 +68,12 @@
     "language": "Odia",
     "logo": "https://radiosindia.com/images/radiojhalak.jpg",
     "url": "https://usa3.fastcast4u.com/proxy/jkpanda06/stream"
+  },
+  {
+    "id": "Sarthak",
+    "name": "Sarthak FM 91.9",
+    "language": "Odia",
+    "logo": "https://radiosindia.com/images/sarthakfm.jpg",
+    "url": "https://stream.zeno.fm/1t5ceyhcxbruv"
   }
 ]
