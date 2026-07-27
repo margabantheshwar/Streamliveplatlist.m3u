@@ -103,4 +103,7 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJRcGMd/Picsart-25-09-02-13-13-07-905.png" tvg-name="Sony Sports Ten 4 Tamil" group-title="Sports",Sony Sports Ten 4 Tamil
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynm8i_jdwgJQ7mwR_VIjicPGCPEwD9r6__Oa6oqu7Qw&s" tvg-name="SuperFine Flims Tamil" group-title="Tamil",SuperFine Flims Tamil
+https://prod-runn.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
+
 
