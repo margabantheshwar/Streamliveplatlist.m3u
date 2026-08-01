@@ -76,12 +76,6 @@ https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playl
 #EXTINF:-1 tvg-id="best_thriller_tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png" tvg-language="English" group-title="Movies",BEST THRILLER TV
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="fifa_malayalam_2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302-1068x749.jpg" tvg-language="Malayalam" group-title="Sports",Fifa Malayalam 2026
-https://ts.sptck.cfd/hls/tist1.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="202" tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" tvg-language="English" group-title="Sports",Willow by Cricbuzz
 https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=yKrBGBWiTPw4rfk36QsMXA&expires=1784458233
 
@@ -94,10 +88,7 @@ https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn8.zohanayaan.com:1686/hls
 #EXTINF:-1 tvg-id="sony3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png" tvg-language="Hindi" group-title="Sports",Sony Sports Hindi HD
 https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/rP136NxcTszZTQCZVvZHuFf3mgvZy01fC5eu53om9NgQIuCoPSqWs4f5VWFGfFOFXYCT0000QUc1DMD2u4B00qSWmHrvRPsuycC8/rendition.m3u8?cdn=fastly&expires=1783569600&skid=default&signature=NmE0ZjFjYzBfNzhlYjJiYzdiYTFiMjZjN2NjZDRkOGZmZjdjNGJlN2ZlMmE3Nzk1NzBjNGRmNzc3MDJiMmExOTA1NTllYjExNA==
 
-#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9VL1kNAnmBh66Gq1UAJamOe-XUygln6UBnQPifdnbA&s=10" tvg-language="English" group-title="Sports", IND VS ZIM
-https://livecf.fancode.com/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1425/1783517011425-b" tvg-language="English" group-title="Sports", IND VS ENG (ENGLISH)
+#EXTINF:-1 tvg-id="indvseng" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%205.jpg" tvg-language="English" group-title="Sports", IND VS ENG (ENGLISH)
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJRcGMd/Picsart-25-09-02-13-13-07-905.png" tvg-name="Sony Sports Ten 4 Tamil" group-title="Sports",Sony Sports Ten 4 Tamil
