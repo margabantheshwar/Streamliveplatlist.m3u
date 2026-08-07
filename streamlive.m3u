@@ -97,4 +97,6 @@ https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynm8i_jdwgJQ7mwR_VIjicPGCPEwD9r6__Oa6oqu7Qw&s" tvg-name="SuperFine Flims Tamil" group-title="Tamil",SuperFine Flims Tamil
 https://prod-runn.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
 
+#EXTINF:-1 tvg-id="zee_tamil_hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" tvg-language="Tamil" group-title="Entertainment",Zee Tamil HD
+https://servertvhub.site/zee5(2.0)/playlist.php?id=0-9-zeetamil
 
