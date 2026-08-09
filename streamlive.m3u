@@ -103,6 +103,12 @@ https://servertvhub.site/zee5(2.0)/playlist.php?id=0-9-zeetamil
 #EXTINF:-1 tvg-id="ndtv_lanka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7IVkC0_x19YbodxYr0jJGasCkQOSWrGVc1RbvtGDbA&s=10" tvg-language="tamil" group-title="srilanka",NDTV Lanka
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SuperfineFilmsTelugu.in" tvg-name="Superfine Flims Telugu" tvg-logo="https://yt3.googleusercontent.com/13uQXXTra_NlgZR9m9hSr-yXT8am_I1DX_PBgVXzZdwDAoI4wqhx-YXC9SoWiDTIjaf0S-IDCeA=s160-c-k-c0x00ffffff-no-rj" group-title="telugu",Superfine Flims Telugu
+https://prod-runn.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperfineFilmsEnglish.in" tvg-name="Superfine Flims English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa17i9tR-EKZIQ8Kp5_9R6a1MSg-Gyrk8Z5BVk0T_2rRzn5R6slE6ltZtU&s=10" group-title="english",Superfine Flims English
+https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
+
 
 
 
