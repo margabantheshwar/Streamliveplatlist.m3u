@@ -115,5 +115,3 @@ https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="zee_tamil_hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" tvg-language="Tamil" group-title="Entertainment",Zee Tamil HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index.m3u8?hdnts=st=1786278213~exp=1786281213~acl=/cmaf/live/2105530/ZeeTamilHDELE/*~id=1c6c9565-54e1-499c-9b7f-dfa182e894c1~data=non-ssai_1c6c9565-54e1-499c-9b7f-dfa182e894c1~hmac=7b301ecb58f7d9deaa5e4cd9cb3a2e366ff5861b8e7df1eea7db3f2d10644fc5&req_id=non-ssai_1c6c9565-54e1-499c-9b7f-dfa182e894c1
