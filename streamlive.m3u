@@ -109,6 +109,17 @@ https://prod-runn.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperfineFilmsEnglish.in" tvg-name="Superfine Flims English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa17i9tR-EKZIQ8Kp5_9R6a1MSg-Gyrk8Z5BVk0T_2rRzn5R6slE6ltZtU&s=10" group-title="english",Superfine Flims English
 https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal tv" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="Dangal",Dangal tv
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangalTV2.in" tvg-name="Dangal tv" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="Dangal",Dangal tv 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Bangla" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg" group-title="Dangal",Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/BhojpuriCinema_16x9.jpg" group-title="Dangal",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 
 
