@@ -119,7 +119,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="zee-tamil-working" tvg-name="Zee Tamil working" tvg-chno="24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Regional",Zee Tamil working
 https://shoebinfo.qzz.io/bgmi/zee5.php/0-9-zeetamil.m3u8
 
-
+#EXTINF:-1 tvg-id="SouthFlix.in" tvg-name="South Flix" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png&h=250" group-title="tamil",South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
 
 
