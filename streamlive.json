@@ -9,16 +9,6 @@
   "logo": "https://i.ytimg.com/vi/JOjpXqUCQoc/maxresdefault.jpg"
 },
 {
-  "name": "Zee Keralam SD",
-  "id": "1173",
-  "category": "Entertainment",
-  "language": "Malayalam",
-  "url": "https://keys.vodep39240327.workers.dev/mpd/1173",
-  "keyId": "1173",
-  "key": "https://keys.vodep39240327.workers.dev/key/1173",
-  "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_SD.png"
-},
-{
   "name": "Caze TV 60 fps",
   "id": "caze-tv-60fps",
   "category": "Sports",
@@ -59,14 +49,12 @@
   "logo": "https://images.seeklogo.com/logo-png/31/2/tsn-4-logo-png_seeklogo-314698.png"
  },
 {
-  "name": "Star Sports 1 Tamil HD",
-  "id": "Star-Sports-1-Tamil-Hd",
+  "name": "FC",
+  "id": "fc",
   "category": "Sports",
-  "language": "Tamil",
-  "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1784370243~exp=1784391843~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=727a21fce63cc15c9ed712238be1c42abd0e267570dcac013a1d4a1c871f137c",
-  "keyId": "",
-  "key": "",
-  "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png"
+  "language": "English",
+  "url": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+  "logo": "https://images.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0FGR19JTkRfMjAyNl9GQy1XRUIxMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ=="
 }
 
 
