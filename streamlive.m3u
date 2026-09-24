@@ -119,6 +119,9 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="zee-tamil-working" tvg-name="Zee Tamil working" tvg-chno="24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Regional",Zee Tamil working
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="zee-tamil-working" tvg-name="Zee Thirai working" tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png" group-title="Regional",Zee Tamil working
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiHDELE/index-connected.m3u8?hdnts=st=1790254865~exp=1790257865~acl=/cmaf/live/2105172/ZeeThiraiHDELE/*~id=d30cd538-aab6-4718-b321-b01f399f17ac~data=non-ssai_d30cd538-aab6-4718-b321-b01f399f17ac~hmac=cb48181d1f05d5862b2c7a9c95af8d4fad2d8d22f5eb0b73b09eb00eea1a64ed&req_id=non-ssai_d30cd538-aab6-4718-b321-b01f399f17ac
+
 #EXTINF:-1 tvg-id="SouthFlix.in" tvg-name="South Flix" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png&h=250" group-title="tamil",South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
