@@ -1,0 +1,36 @@
+{
+      "id": "sony5",
+      "name": "Sony Ten 5",
+      "type": "iframe",
+      "iframeSrc": "https://jioforcine.pages.dev/?id=STEN5"
+    },
+    {
+      "id": "sony3",
+      "name": "Sony Ten 3",
+      "type": "iframe",
+      "iframeSrc": "https://sonyten3-cine.pages.dev/"
+    },
+    {
+      "id": "sony2",
+      "name": "Sony Ten 2",
+      "type": "iframe",
+      "iframeSrc": "https://sony2-cinearena.pages.dev/"
+    },
+    {
+      "id": "sony1",
+      "name": "Sony Ten 1",
+      "type": "iframe",
+      "iframeSrc": "https://sonyten1-cine.pages.dev/"
+    },
+    {
+      "id": "sony4-tamil",
+      "name": "Sony Ten Tamil",
+      "type": "iframe",
+      "iframeSrc": "https://sony-tamil-cinearena.pages.dev/"
+    },
+    {
+      "id": "sony4-telugu",
+      "name": "Sony Ten Telugu",
+      "type": "iframe",
+      "iframeSrc": "https://sony-telugu-cinearena.pages.dev/"
+    }
